@@ -1,0 +1,5 @@
+.elememt__image {
+    position: absolute;
+    z-index: 1;
+    background: url('../../../images/Rectangle.png');
+}
