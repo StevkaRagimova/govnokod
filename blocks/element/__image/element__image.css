@@ -1,8 +1,8 @@
 .elememt__image {
     position: absolute;
+    border-top-left-radius: 5%;
+    border-top-right-radius:5%;
     z-index: 1;
     height: 282px;
     width: 282px;
-    border-radius: 5%;
-    
 }
