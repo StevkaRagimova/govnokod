@@ -5,10 +5,10 @@
     align-self: flex-start;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 767px) {
     .header__logo {
         width: 104px;
         height: 25px;
-        padding: auto auto auto 27px;
+        padding-left: 27px;
     }
 }
