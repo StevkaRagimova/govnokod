@@ -1,5 +1,7 @@
 .elememt__image {
     position: absolute;
     z-index: 1;
-    background: url('../../../images/Rectangle.png');
+    background: url(../../../images/Rectangle.png);
+    height: 282px;
+    width: 282px;
 }
