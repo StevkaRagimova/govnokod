@@ -1,3 +1,6 @@
 .element__button {
+    width: 19px;
+    height: 22px;
+    display: flex;
     
 }
