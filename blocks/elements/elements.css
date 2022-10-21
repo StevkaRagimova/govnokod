@@ -1,8 +1,9 @@
 .elements {
+    width: 100%;
+    max-width: 880px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    justify-items: stretch;
     padding: 50px auto 66px auto;
 }
