@@ -3,5 +3,7 @@
     height: 50px;
     border: 1px solid#FFFFFF;
     background: url(../../../images/plus.png) no-repeat center;
+    display: flex;
+    padding: 75 auto auto auto;
 
 }

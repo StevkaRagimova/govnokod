@@ -6,4 +6,6 @@ font-size: 24px;
 width: 246px;
 height: 23px;
 padding-left: 21px;
+display: flex;
+justify-content: space-around;
 }
