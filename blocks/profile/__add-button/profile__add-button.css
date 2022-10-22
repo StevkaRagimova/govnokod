@@ -1,7 +1,7 @@
 .profile__add-button {
     width: 150px;
     height: 50px;
-    display: flex;
-    justify-content: end;
+    border: 1px solid#FFFFFF;
+    background: url(../../../images/plus.png) no-repeat center;
 
 }
