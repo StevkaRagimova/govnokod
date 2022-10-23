@@ -1,0 +1,9 @@
+.popup__profession {
+    display: block;
+    padding-bottom: 13px;
+    border-bottom: 1px solid #000000;
+    line-height: 17px;
+    font-size: 14px;
+    font-weight: normal;
+    padding-bottom: 13px;
+}

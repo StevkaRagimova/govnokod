@@ -1,0 +1,9 @@
+.popup__name {
+    display: block;
+    border-bottom: 1px solid #000000;
+    line-height: 17px;
+    font-size: 14px;
+    font-weight: normal;
+    padding-bottom: 13px;
+
+}
