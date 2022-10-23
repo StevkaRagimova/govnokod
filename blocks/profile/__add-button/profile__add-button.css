@@ -5,6 +5,7 @@
     background: url(../../../images/plus.png) no-repeat center;
     display: flex;
     padding: 75 auto auto auto;
+    transition:  0.3s ease-in-out;
 
 }
 
