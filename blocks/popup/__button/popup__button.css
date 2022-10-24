@@ -1,0 +1,7 @@
+.popup__button {
+    display: flex;
+    border-radius: 2px;
+    background: black;
+    height: 50;
+    width: 358px;
+}
