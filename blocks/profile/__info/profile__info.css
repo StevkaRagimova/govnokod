@@ -1,4 +1,5 @@
 .profile__info {
+    width: calc(100% - 330px);
     display: flex;
     flex-direction: column;
     justify-content: space-around;

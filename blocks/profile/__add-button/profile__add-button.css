@@ -3,8 +3,7 @@
     height: 50px;
     border: 2px solid#FFFFFF;
     background: url(../../../images/plus.png) no-repeat center;
-    display: flex;
-    padding: 75 auto auto auto;
+    margin-left: 30px;
     transition:  0.3s ease-in-out;
 
 }
