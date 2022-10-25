@@ -1,11 +1,5 @@
 .profile__info {
     width: calc(100% - 330px);
-    display: grid;
-    grid-template-columns: 1fr auto;
-    justify-items: flex-start;
-    align-items: center;
-    grid-template-areas:
-      "name edit-button"
-      "about about";
-   
+    margin-right: auto;
+    padding-left: 28px;
 }
