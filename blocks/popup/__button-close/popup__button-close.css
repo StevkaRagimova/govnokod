@@ -5,5 +5,11 @@
     position: relative;
     top: -37px;
     right: -37px;
-    
+    cursor: pointer;
+    transition: opacity 0.3 ease-in-out;
 }
+
+.popup__btn-close:hover {
+  opacity: 0.5;
+}
+    
