@@ -1,8 +1,11 @@
-.popup__form {
+.popup__container {
     width: 430px;
     height: 330px;
     border-radius: 10px;
     padding: 34px 36px;
-    border: none;
+   
     background-color: #FFFFFF;
+    border: 0;
+    border-bottom: 1px solid #00000033;
+
 }

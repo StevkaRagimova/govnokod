@@ -5,8 +5,12 @@
     background-color: #FFFFFF;
     border-radius: 10px;
     overflow: hidden;
+    text-overflow: ellipsis;
+        white-space: nowrap;
 }
 
 .element :last-child {
     margin-bottom: 0px;
-}
+    }
+
+    /*здесь вот че делать чтобы было не Черкессия а Ч.....???*/
