@@ -2,6 +2,8 @@
     background: url(../../../images/close-icon.svg) no-repeat center;
     width: 32px;
     height: 32px;
-    position: absolute;
+    position: relative;
+    top: -37px;
+    right: -37px;
     
 }
