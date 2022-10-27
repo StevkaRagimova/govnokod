@@ -1,4 +1,5 @@
-$(".popup").on('click', function() {
+
+/*$(".popup").on('click', function() {
     $(".popup__container").addClass('model-open');
   }); 
   $(".popup__button-close").click(function(){
@@ -21,7 +22,7 @@ closeBtn.addEventListener('click', ()=>{
 popup.addEventListener('click', ()=>{
     popup.style.display = 'none';
 });
-
+ */
 
 
 
@@ -34,6 +35,5 @@ let formInputName = document.querySelector('.form__input_name');
 let formInputWorkplace = document.querySelector('.profile__workplace');
 let formInputWorkplace = ('.form__input_workplace');
 
-function
-
+function дальше хз что делать
 
