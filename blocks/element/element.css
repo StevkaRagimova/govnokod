@@ -8,7 +8,7 @@
      overflow: hidden;
 }
 
-.element :last-child {
+.element:last-child {
     margin-bottom: 0px;
     }
 
