@@ -1,6 +1,7 @@
 const profileEditBtn = document.querySelector('.profile__edit-button');
 const popup = document.querySelector('.popup');
 const popupBtnClose = document.querySelector('.popup__button-close');
+let popupForm = document.querySelector ('.form');
 const profileName = document.querySelector('.profile__name');
 const formInputName = document.querySelector('input[name="form__input_name"]');
 const profileProfession = document.querySelector('.profile__workplace');
@@ -20,6 +21,13 @@ function addValueInValue() {
   formInputProfession.value = profileProfession.textContent;
 }
 
+function formSubmitHandler(form) {
+  form.preventDefault();
+  profileName.textContent = formInputName.value;
+  profileProfession.textContent = formInputProfession.value;
+  closePopup();
+}
+
 
 profileEditBtn.addEventListener('click', openPopup);
 popupBtnClose.addEventListener('click', closePopup);
@@ -27,3 +35,7 @@ profileEditBtn.addEventListener('click', () => {
   openPopup();
   addValueInValue();
 })
+
+popupForm.addEventListener('submit', formSubmitHandler); 
+
+
