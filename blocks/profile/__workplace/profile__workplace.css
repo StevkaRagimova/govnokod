@@ -4,6 +4,16 @@
     line-height: 22px;
     font-weight: normal;
     margin: 8px 0 0;
-
-    
 }
+
+@media screen and (max-width: 767px) {
+    .profile__workplace {
+      max-width: 189px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .profile__workplace {
+      font-size: 14px;
+    }
+  }
